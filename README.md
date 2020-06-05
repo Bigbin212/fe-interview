@@ -14,9 +14,10 @@
 
 ## 四大宗旨：勤思考，多动手，善总结，能坚持  
 
-> 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
+> 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）  
+> 孔子曰：**“不愤不启，不悱不发。举一隅不以三隅反，则不复也”**  
 > 前端面试每日3+1，以面试题来驱动学习，每天进步一点！  
-> 让努力成为一种习惯，让奋斗成为一种享受！
+> 让努力成为一种习惯，让奋斗成为一种享受！  
 > 相信 **坚持** 的力量！！！
 
 ---
@@ -36,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.05.21) —— 第401天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
-- [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
-- [js] [使用js实现一个循环队列](https://github.com/haizlin/fe-interview/issues/2404)
-- [软技能] [有新同事入职，你是要安排他先做新项目还是老项目？为什么？](https://github.com/haizlin/fe-interview/issues/2405)
+## 今天的知识点 (2020.06.05) —— 第416天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
+- [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
+- [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
+- [软技能] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -80,18 +81,18 @@
 …………  
 
 
-- 第399天 (2020.05.19)
-    - [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
-	- [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
-	- [js] [Number()的存储空间是多大？假如接口返回一个超过最大字节的数字怎么办？](https://github.com/haizlin/fe-interview/issues/2396)
-	- [软技能] [你上家公司对于前端部门的验收标准有吗？都规范了哪些标准呢？](https://github.com/haizlin/fe-interview/issues/2397)
+- 第414天 (2020.06.03)
+    - [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
+	- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
+	- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
+	- [软技能] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
 	
 
-- 第400天 (2020.05.20)
-    - [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
-	- [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)
-	- [js] [一个api接口从请求数据到请求结束共与服务器进行了几次交互？](https://github.com/haizlin/fe-interview/issues/2400)
-	- [软技能] [你有对接过微信支付吗？说说微信支付的流程](https://github.com/haizlin/fe-interview/issues/2401)
+- 第415天 (2020.06.04)
+    - [html] [webp与jpg、png比较，它有什么优劣势？如何选择？](https://github.com/haizlin/fe-interview/issues/2464)
+	- [css] [父元素下有子元素，子元素也有高度但父元素的高度为何为0呢？分析下可能出现的原因及解决方法](https://github.com/haizlin/fe-interview/issues/2465)
+	- [js] [写一个方法，实时验证input输入的值是否满足金额如：3.56(最多只有两位小数且只能数字和小数点)的格式，其它特殊字符禁止输入](https://github.com/haizlin/fe-interview/issues/2466)
+	- [软技能] [你所在的公司有晋升体系吗？如果有那你有晋升过吗？如果没有，说说你心目中的晋升应该是什么样的？](https://github.com/haizlin/fe-interview/issues/2467)
 	
     
 - **[查看全部](category/history.md)**
@@ -188,8 +189,9 @@
     - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
     - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
 - 2020.04.16 — 第366天，前端面试每日3+1，满一年啦，366天从未间断，感谢大家的陪伴与参与！！！未来的日子会继续努力做得更好！
-- 2020.05.20 — 第440天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
-- 2020.05.21 — 第441天，第9次登上github热门榜！
+- 2020.05.20 — 第400天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
+- 2020.05.21 — 第401天，第9次登上github热门榜！
+- 2020.06.03 — 第415天，第10次登上github热门榜！
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905)（CSDN每天同步更新）

@@ -16,13 +16,14 @@
 
 ## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
 
-> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day)。  
+> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day).
+> Confucius said, "don't be angry, don't be sad. If one corner is not reversed by three corners, it will be no longer. " 
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
-> Let hard work become a habit, let struggle become a kind of enjoyment!
+> Let hard work become a habit, let struggle become a kind of enjoyment!  
 > Believe in the power of **perseverance**！！！
 
 ---
-- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.（**Knock oneself**）。
+- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.(**Knock oneself**).
 - I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
 - Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
@@ -38,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.05.21) —— 401 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
-- [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
-- [js] [使用js实现一个循环队列](https://github.com/haizlin/fe-interview/issues/2404)
-- [skill] [有新同事入职，你是要安排他先做新项目还是老项目？为什么？](https://github.com/haizlin/fe-interview/issues/2405)
+## Today's Knowledge Points (2020.06.05) —— 416 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
+- [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
+- [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
+- [skill] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -81,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 399 days (2020.05.19)
-    - [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
-	- [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
-	- [js] [Number()的存储空间是多大？假如接口返回一个超过最大字节的数字怎么办？](https://github.com/haizlin/fe-interview/issues/2396)
-	- [skill] [你上家公司对于前端部门的验收标准有吗？都规范了哪些标准呢？](https://github.com/haizlin/fe-interview/issues/2397)
+- 414 days (2020.06.03)
+    - [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
+	- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
+	- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
+	- [skill] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
 	
 
-- 400 days (2020.05.20)
-    - [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
-	- [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)
-	- [js] [一个api接口从请求数据到请求结束共与服务器进行了几次交互？](https://github.com/haizlin/fe-interview/issues/2400)
-	- [skill] [你有对接过微信支付吗？说说微信支付的流程](https://github.com/haizlin/fe-interview/issues/2401)
+- 415 days (2020.06.04)
+    - [html] [webp与jpg、png比较，它有什么优劣势？如何选择？](https://github.com/haizlin/fe-interview/issues/2464)
+	- [css] [父元素下有子元素，子元素也有高度但父元素的高度为何为0呢？分析下可能出现的原因及解决方法](https://github.com/haizlin/fe-interview/issues/2465)
+	- [js] [写一个方法，实时验证input输入的值是否满足金额如：3.56(最多只有两位小数且只能数字和小数点)的格式，其它特殊字符禁止输入](https://github.com/haizlin/fe-interview/issues/2466)
+	- [skill] [你所在的公司有晋升体系吗？如果有那你有晋升过吗？如果没有，说说你心目中的晋升应该是什么样的？](https://github.com/haizlin/fe-interview/issues/2467)
 	
 
 - **[All](category/history.md)**
@@ -187,8 +188,9 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
     - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
 - 2020.04.16 — 第366天，前端面试每日3+1，满一年啦，366天从未间断，感谢大家的陪伴与参与！！！未来的日子会继续努力做得更好！
-- 2020.05.20 — 第440天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
-- 2020.05.21 — 第441天，第9次登上github热门榜！
+- 2020.05.20 — 第400天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
+- 2020.05.21 — 第401天，第9次登上github热门榜！
+- 2020.06.03 — 第415天，第10次登上github热门榜！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905)（CSDN Daily Synchronized Updates）
